@@ -101,15 +101,6 @@ All code, examples, and scripts used in the course are available here:
    * Using agents and labels
    * Docker-based cloud agents
    * BlueOcean visualization
-
----
-
-## 🔗 Useful Links
-
-* **Amazon Store (homelab setup):** [https://www.amazon.com/shop/devopsjourney](https://www.amazon.com/shop/devopsjourney)
-* **Buy me a coffee:** [https://www.buymeacoffee.com/bradmorg](https://www.buymeacoffee.com/bradmorg)
-* **Discord Community for DevOps Engineers:** `/discord`
-
 ---
 
 ## 🚀 Running the Project
